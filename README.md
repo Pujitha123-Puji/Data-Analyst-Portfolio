@@ -1,12 +1,12 @@
 #Data Analyst Portfolio
 
-Project Title: Pizza Sales Report
+#Project Title: Pizza Sales Report
 The Pizza Sales Report project is a data analysis and visualization initiative aimed at uncovering meaningful insights from a pizza restaurant’s sales data. The goal was to evaluate business performance, identify sales trends, and support data-driven decision-making. This project was executed using Structured Query Language (SQL) for data extraction and transformation, and Power BI for visualization and reporting.
 
-Data Sources and Tools:
+#Data Sources and Tools:
 The dataset consisted of sales records from a fictional pizza store, typically including tables such as orders, order_details, pizzas, pizza_types, and customers. SQL was used to query and prepare the data. All necessary data cleaning, joining, filtering, and aggregating were done using SQL. Once the data was cleaned and structured, it was imported into Power BI, where interactive dashboards were developed to present key performance indicators (KPIs) and insights.
 
-Objectives:
+#Objectives:
 The main objectives of the project were:
 
 #To analyze total sales performance over time.
