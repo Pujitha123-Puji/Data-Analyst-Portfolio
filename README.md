@@ -45,5 +45,6 @@ Customer Insights: Order frequency and customer segmentation if data allowed.
 
 Power BI features such as slicers, filters, and drill-down capabilities were utilized to enhance interactivity and allow users to explore data from different perspectives.
 
-Conclusion
+#Conclusion:
+
 The Pizza Sales Report project successfully demonstrated how data analytics tools like SQL and Power BI can be integrated to deliver actionable business intelligence. By analyzing sales patterns and visualizing them clearly, the project provided valuable insights that can help a pizza business optimize inventory, marketing strategies, and staff scheduling. It also served as a solid hands-on experience in data handling, business analysis, and dashboard creation, making it a significant addition to any data enthusiast's portfolio.
