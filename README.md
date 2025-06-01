@@ -47,3 +47,25 @@ Power BI features such as slicers, filters, and drill-down capabilities were uti
 
 #Conclusion:
 The Pizza Sales Report project successfully demonstrated how data analytics tools like SQL and Power BI can be integrated to deliver actionable business intelligence. By analyzing sales patterns and visualizing them clearly, the project provided valuable insights that can help a pizza business optimize inventory, marketing strategies, and staff scheduling. It also served as a solid hands-on experience in data handling, business analysis, and dashboard creation, making it a significant addition to any data enthusiast's portfolio.
+
+#SQL Queries
+
+![Image](https://github.com/user-attachments/assets/adf26087-35d8-4597-9e04-c8875eb7e670)
+
+![Image](https://github.com/user-attachments/assets/734fc892-e0af-4235-acc1-696d21b61553)
+
+![Image](https://github.com/user-attachments/assets/3b6facdd-34b9-467e-95b8-e20a62204f0d)
+
+![Image](https://github.com/user-attachments/assets/0f481d20-f158-48ad-8a99-36dfe7837159)
+
+![Image](https://github.com/user-attachments/assets/a740cf86-9eca-4c74-b91e-bf31878d2033)
+
+![Image](https://github.com/user-attachments/assets/6781448f-6294-44b3-b507-a698eafb9239)
+
+![Image](https://github.com/user-attachments/assets/00be9989-dac0-4594-8a1d-b5fc3110b552)
+
+#Data Visualization in POWER BI:
+
+![Image](https://github.com/user-attachments/assets/57459fa4-ae2e-42ef-a544-0598b115e426)
+
+![Image](https://github.com/user-attachments/assets/15167957-2c22-4390-b31d-1cf7f2abbbcb)
